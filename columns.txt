@@ -1,0 +1,20 @@
+Example of Initial Utterance: "I want a blue one"
+  Intent : "Desire"
+  After Augmentation : I’m hoping for the blue one—it’s my favorite.
+                       I’d love to have the one in blue, please.
+                       I wish I could pick the blue one—it just feels right.
+                       I’m drawn to the blue one—it’s calling to me.
+                       I’d be so happy if I got the blue one.
+                       I want the blue one—it’s the perfect shade.
+                       I’m dreaming of the blue one—it stands out to me.
+                       I’d really like the blue one—it’s the one I’ve been eyeing.
+                       I’m wishing for the blue one—it makes me smile.
+                       I want the blue one—it feels like it was made for me.
+                       I’d love to hold the blue one—it’s just so lovely.
+                       I’m hoping the blue one is still available.
+                       I want the blue one—it’s the one that speaks to me.
+                       I’d be thrilled to get the blue one—it’s just my style.
+                       I’m longing for the blue one—it’s the one I’ve imagined.
+                       I want the blue one—it’s the color of calm and joy.
+                       I’d feel so lucky to have the blue one.
+                      I’m wishing for the blue one—it’s the one that feels right
